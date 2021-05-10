@@ -1,0 +1,13 @@
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\bin\Debug\netcoreapp3.1\lifeSpan.exe
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\bin\Debug\netcoreapp3.1\lifeSpan.deps.json
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\bin\Debug\netcoreapp3.1\lifeSpan.runtimeconfig.json
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\bin\Debug\netcoreapp3.1\lifeSpan.runtimeconfig.dev.json
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\bin\Debug\netcoreapp3.1\lifeSpan.dll
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\bin\Debug\netcoreapp3.1\lifeSpan.pdb
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\obj\Debug\netcoreapp3.1\lifeSpan.csprojAssemblyReference.cache
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\obj\Debug\netcoreapp3.1\lifeSpan.AssemblyInfoInputs.cache
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\obj\Debug\netcoreapp3.1\lifeSpan.AssemblyInfo.cs
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\obj\Debug\netcoreapp3.1\lifeSpan.csproj.CoreCompileInputs.cache
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\obj\Debug\netcoreapp3.1\lifeSpan.dll
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\obj\Debug\netcoreapp3.1\lifeSpan.pdb
+C:\Users\ianma\source\repos\lifeSpan\lifeSpan\obj\Debug\netcoreapp3.1\lifeSpan.genruntimeconfig.cache
